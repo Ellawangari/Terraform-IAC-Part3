@@ -21,17 +21,17 @@ ami = "ami-0b0af3577fe5e3532"
 keypair = "redhatkey"
 
 
-account_no = "081243314443"
+account_no = ""
 
-db-username = "admin"
+db-username = ""
 
-db-password = "admin12345"
+db-password = ""
 
 tags = {
   Enviroment      = "Production"
   Owner-Email     = "elamaina8@gmail.com"
   Managed-By      = "Terraform"
-  Billing-Account = "081243314443"
+  Billing-Account = ""
 
 
 }
