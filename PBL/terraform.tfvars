@@ -29,7 +29,7 @@ db-password = ""
 
 tags = {
   Enviroment      = "Production"
-  Owner-Email     = "elamaina8@gmail.com"
+  Owner-Email     = ""
   Managed-By      = "Terraform"
   Billing-Account = ""
 
